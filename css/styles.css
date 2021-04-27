@@ -135,7 +135,7 @@ h3 {
 #cta {
   background-color: #ff6701;
   color: #fff;
-  padding: 7% 15%;
+  padding: 0 15%;
   text-align: center;
 }
 
@@ -145,6 +145,9 @@ h3 {
   line-height: 1.5;
 }
 
+.cta-item{
+  padding-top: 10%;
+}
 /* .cta-item{
   padding:5% 25%;
 
